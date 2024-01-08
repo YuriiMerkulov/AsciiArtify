@@ -13,4 +13,4 @@
 
 ## Demo
 k3d  Deployment of "Hello World" Application on Kubernetes
-![Application on Kubernetes](Concept.gif)
+![Application on Kubernetes](demo.gif)
