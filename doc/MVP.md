@@ -1,6 +1,6 @@
 Application deployment in ArgoCD
 
-![](../img/argo.png)
+![](../doc/argo.png)
 
 1. Add port forwarding
 ```bash
@@ -17,4 +17,4 @@ curl -F 'image=@/tmp/u.png' localhost:8088/img/
 
 The result might be something like this:
 
-![](../img/logo.png)
+![](../doc/logo.png)
